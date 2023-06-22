@@ -1,0 +1,18 @@
+.center {
+  color: red;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, Montserrat, sans-serif;
+}
+
+.exercise-header {
+  text-align: center;
+  color: #fff;
+  background-color: #00a4bd;
+  margin: 2rem 0;
+  padding: 1rem 0;
+}
+
+/*# sourceMappingURL=index.57b02a16.css.map */
